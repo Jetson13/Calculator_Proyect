@@ -8,3 +8,6 @@ Jerny Jimenez Baez      Mat.: 2021-0436
 
 # Documentación
 https://drive.google.com/file/d/1IQdDOXP9t0WpR_ICjZjjcN6LxqtPT7ak/view?usp=sharing
+
+# Video - Presentación
+https://www.youtube.com/watch?v=qH-v6mOOI_o
